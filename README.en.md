@@ -2,14 +2,14 @@
 
 Huno is a responsible theme for [Hexo](http://hexo.io/), and it is based on [Uno](https://github.com/daleanthony/uno/).
 
+## Demo
 
-## Install
+[Huno's demo](http://hi.letiantian.me/huno/)
 
-```
-$ git clone git://github.com/someus/huno.git themes/huno
-```
+[针对意识](http://exego.me/)
 
-Huno performs well with Hexo 2.5.7.
+## Info
+This is the customize theme for myself.Thanks for [the origin theme](https://github.com/letiantian/huno)
 
-## Enable
-Please modify `theme` setting in `_config.yml` to `huno`.
+## Change
++ Remove all the update infomation about date/time.
