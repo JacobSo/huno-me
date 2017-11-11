@@ -1,0 +1,34 @@
+# Header
+menu:
+  首页: /#blog
+  常識: /categories/common-sense
+  我執: /categories/let-it-be
+  文脈: /categories/books-reading
+  目迷: /categories/movies-review
+  萬象: /categories/thinking-of-things
+  廢名: /categories/be-an-university
+  無明: /categories/be-a-poet
+  破鏡: /categories/black-mirror
+  繆斯: /categories/musical-thinking
+  去飲: /categories/umbrella-movement
+  介入: https://jacobso.github.io/
+  五月三十五: /categories/shame-of-china
+  
+
+# Site favicon
+favicon: /favicon.png
+
+# Site logo
+# logo: /avatar.png
+
+# Enable Mathjax
+mathjax: true
+
+# Enable awesome-toc
+awesome_toc: true
+
+# Enable githubRepoWidget
+github_repo_widget: true
+# Social
+social:
+  github: someus
